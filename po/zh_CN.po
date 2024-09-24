@@ -158,7 +158,7 @@ msgstr "电池2"
 #. TRANSLATORS: Keep translation short if possible. Maximum  21 characters can be displayed here
 #: lib/thresholdPanel.js:36 lib/thresholdPanel.js:343
 msgid "Battery Charging Mode"
-msgstr "充电中"
+msgstr "充电模式"
 
 #. TRANSLATORS: Keep translation short if possible. Maximum  34 characters can be displayed here
 #: lib/thresholdPanel.js:69 preferences/thresholdPrimary.js:201
